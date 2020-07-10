@@ -1,4 +1,0 @@
-Git is a version control system.
-Git is free software.
-push one line content.
-first practice.
